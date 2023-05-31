@@ -1,11 +1,14 @@
 # Lambda Runtime Versions
 
 A list of runtime version ARNs for various Lambda runtimes, including their respective release dates.
+- Python
+  - [python3.7](#python-37)
+  - [python3.8](#python-38)
+  - [python3.9](#python-39)
+  - [python3.10](#python-310)
 
-- [python3.7](#python-37)
-- [python3.8](#python-38)
-- [python3.9](#python-39)
-- [python3.10](#python-310)
+- NodeJS
+  - [nodejs 14](#nodejs-14)
 
 ## Python 3.7
 
@@ -57,3 +60,9 @@ A list of runtime version ARNs for various Lambda runtimes, including their resp
 | release date | runtime version | runtime version arn                                                                                 |
 | --------------- | --------------------------------------------------------------------------------------------------- | ------------ |
 | NA           | python:3.10.v2  | arn:aws:lambda:<region>::runtime:e60d8adba0b7097caf2a075e105b041d0160b9fceb747f7416076c3e94a97aad |
+
+## NodeJS14
+ 
+| release date | runtime version | runtime version arn                                                                                 |
+| --------------- | --------------------------------------------------------------------------------------------------- | ------------ |
+| NA           | nodejs:14.v30  | arn:aws:lambda:ap-south-1::runtime:cbf1e4541be1b7368dfdccdd8dd4be4f1de07dfdf6da3cab893d919f6b99e9a9 |
