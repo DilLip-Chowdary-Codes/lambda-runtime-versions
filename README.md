@@ -14,6 +14,7 @@ A list of runtime version ARNs for various Lambda runtimes, including their resp
 | release date | runtime version | runtime version arn                                                                                 |
 | --------------- | --------------------------------------------------------------------------------------------------- | ------------ |
 | NA           | python:3.7.v24  | arn:aws:lambda:<region>::runtime:db8ceeb246f78804a6e51aebc5c464fae32856b9b393f87521ccc7e003142a55 |
+| NA           | python:3.7.v23  | arn:aws:lambda:ap-south-1::runtime:404f127cf4d3b0d7368361968087bb9052f80c682e74e5e3cae6dc86d049242c |
 
 ## Python 3.8
 
